@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/house-story/static/css/main.d41149a0.css",
+    "main.js": "/house-story/static/js/main.a03b82b3.js",
+    "static/js/787.67018f81.chunk.js": "/house-story/static/js/787.67018f81.chunk.js",
+    "static/media/insta.svg": "/house-story/static/media/insta.7324812e7f4eb3123af95be31a67e757.svg",
+    "static/media/owner.png": "/house-story/static/media/owner.671c6f641fea9a61c9c1.png",
+    "static/media/facebook.svg": "/house-story/static/media/facebook.5cd3391cfbb23f305dedc09ffa56a8de.svg",
+    "static/media/footerVideo3.png": "/house-story/static/media/footerVideo3.be6ad0795bb47a15efd1.png",
+    "static/media/footerVideo2.png": "/house-story/static/media/footerVideo2.7f2bd50f60d3ecb813f2.png",
+    "static/media/footerVideo1.png": "/house-story/static/media/footerVideo1.e6a4061020d36da0c134.png",
+    "static/media/fire.svg": "/house-story/static/media/fire.fbfcdcf030dd2454e68ff7e356c004aa.svg",
+    "static/media/logo.svg": "/house-story/static/media/logo.02fb44d167ba3ccdabeb2eaca05bf7ad.svg",
+    "static/media/whatsapp.svg": "/house-story/static/media/whatsapp.3ece22efb09495f1cd009d3f7314ff0d.svg",
+    "static/media/catalog.svg": "/house-story/static/media/catalog.5052dd332829e738337b48fa8379d767.svg",
+    "static/media/blog.svg": "/house-story/static/media/blog.e29f7f641b81289bb406fa94dc283689.svg",
+    "static/media/telegram.svg": "/house-story/static/media/telegram.12dffa1d4b0e606dab114e8ae237bff7.svg",
+    "static/media/youtube.svg": "/house-story/static/media/youtube.9e0099028bc67eb01923f45e4f38fbd6.svg",
+    "static/media/email.svg": "/house-story/static/media/email.026e1705ed371e6a7936fd61f547af2e.svg",
+    "static/media/arowforbutton.svg": "/house-story/static/media/arowforbutton.94c7bb337239df6d347a92daff4971b8.svg",
+    "static/media/language.svg": "/house-story/static/media/language.520301732854f37cf72ea35a492a7e66.svg",
+    "index.html": "/house-story/index.html",
+    "static/media/main.svg": "/house-story/static/media/main.c0eb6c3dc599456210d15a7a529c9459.svg",
+    "static/media/phone.svg": "/house-story/static/media/phone.8c6ae7d4dba22f4a205b8cf93401666d.svg",
+    "static/media/shop.svg": "/house-story/static/media/shop.6aa0f1973cf4405a456000e879ea8361.svg",
+    "static/media/service.svg": "/house-story/static/media/service.4abefa686cc59eed00419a1857ed2152.svg",
+    "static/media/arrowgreen.svg": "/house-story/static/media/arrowgreen.c391abcaab9e53d86edc324a7b6f7dbd.svg",
+    "static/media/burger.svg": "/house-story/static/media/burger.edad9bd54bc5560b1fa83059c88042af.svg",
+    "static/media/contacts.svg": "/house-story/static/media/contacts.3b270dab4740650cb3c25ca4454d8050.svg",
+    "static/media/quality.svg": "/house-story/static/media/quality.ad935ce0ed0cf23420f4d68580cfb75d.svg",
+    "static/media/arrowUp.svg": "/house-story/static/media/arrowUp.d6f45c77a4f2f615dbdf74356f9b9dd3.svg",
+    "main.d41149a0.css.map": "/house-story/static/css/main.d41149a0.css.map",
+    "main.a03b82b3.js.map": "/house-story/static/js/main.a03b82b3.js.map",
+    "787.67018f81.chunk.js.map": "/house-story/static/js/787.67018f81.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d41149a0.css",
+    "static/js/main.a03b82b3.js"
+  ]
+}
